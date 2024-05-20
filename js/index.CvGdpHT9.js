@@ -1,1 +1,0 @@
-import{b9 as t}from"./index.fnbw5y5k.js";function e(e){return t({url:"/system/category/list",method:"get",params:e})}function a(e){return t({url:"/system/category/update",method:"put",data:e})}function r(e){return t({url:"/system/category/add",method:"post",data:e})}function s(e){return t({url:"/system/category/delete",method:"delete",data:e})}export{r as a,s as d,e as g,a as u};
