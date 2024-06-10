@@ -1,1 +1,0 @@
-import{b9 as t}from"./index.hSVJG0U0.js";function e(){return t({url:"/system/home/init",method:"get"})}function n(){return t({url:"/system/home/lineCount",method:"get"})}function o(){return t({url:"/system/home/systemInfo",method:"get"})}export{n as a,o as b,e as g};
