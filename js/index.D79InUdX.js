@@ -1,1 +1,0 @@
-import{b9 as t}from"./index.Cerb1JT_.js";function e(e){return t({url:"/system/tags/list",method:"get",params:e})}function s(e){return t({url:"/system/tags/update",method:"put",data:e})}function a(e){return t({url:"/system/tags/add",method:"post",data:e})}function r(e){return t({url:"/system/tags/delete",method:"delete",data:e})}export{a,r as d,e as g,s as u};
